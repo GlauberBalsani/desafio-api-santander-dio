@@ -1,5 +1,7 @@
 # desafio-api-santander-dio
-Implementação e abstração da minha api
+## Abstração e implementação de uma parte de um sistema bancário
+- Inspirado na Santander Dev Week 2023, modifiquei um pouco as abstações e ideias.
+- Dei mais ênfase na asbtração e orientação a objetos deixando de um jeito mais que abrange novas implementações.
 
 ```mermaid
 classDiagram
